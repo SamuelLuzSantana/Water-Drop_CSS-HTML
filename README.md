@@ -5,11 +5,10 @@ A training with css and html trying to make a water drop effect.
 
 <br>
 
- <div align="center">
-  
-  <img height="400px" width="100%"  src="https://imgur.com/uuOl9LM.png"/>
-  
+ <div align="center">  
+  <img height="550px" width="100%"  src="https://imgur.com/uuOl9LM.png"/>  
 </div>
+
 
 <br>
 
